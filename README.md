@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @suanzy
-- 👀 I’m interested in everything under the sun, especially food.
-- 🌱 I’m currently learning Python
-- 💞️ ~~I’m looking to collaborate on~~ One day we will see
+- 👀 I’m interested in digitizing the real world, especially the traditional industry.
+- 🌱 I’m currently learning Python. The whole github world is still new and fascinating to me.
+- 🤩 I’m looking for collaboration on [curation of supply chain resouces](https://github.com/suanzy/awesome-supply-chain) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 - 📫 suanzyong@live.com.my
 
 <!---
